@@ -10,6 +10,7 @@
         <PlatformTarget>AnyCPU</PlatformTarget>
         <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
         <Platforms>AnyCPU</Platforms>
+		<AssemblyName>TheOtherRolesMira</AssemblyName>
     </PropertyGroup>
 
     <ItemGroup>
